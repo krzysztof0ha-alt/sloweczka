@@ -4,7 +4,7 @@
   "icons": [
     {
       "src": "sloweczka_icon.png",
-      "sizes": "482x482",
+      "sizes": "480x480",
       "type": "image/png"
     }
   ],
@@ -12,3 +12,4 @@
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
+
